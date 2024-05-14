@@ -1,0 +1,32 @@
+﻿  Bank.cpp
+D:\عبد الرحمن\Course-10-And  11-Projects\Bank-System\Bank-System\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\عبد الرحمن\Course-10-And  11-Projects\Bank-System\Bank-System\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\عبد الرحمن\Course-10-And  11-Projects\Bank-System\Bank-System\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\عبد الرحمن\Course-10-And  11-Projects\Bank-System\Bank-System\clsString.h(193,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\عبد الرحمن\Course-10-And  11-Projects\Bank-System\Bank-System\clsString.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\عبد الرحمن\Course-10-And  11-Projects\Bank-System\Bank-System\clsString.h(373,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\عبد الرحمن\Course-10-And  11-Projects\Bank-System\Bank-System\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Bank.cpp')
+  
+D:\عبد الرحمن\Course-10-And  11-Projects\Bank-System\Bank-System\clsTotalBalancesScreen.h(58,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\عبد الرحمن\Course-10-And  11-Projects\Bank-System\Bank-System\clsCurrency.h(24,10): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank.cpp')
+  
+D:\عبد الرحمن\Course-10-And  11-Projects\Bank-System\Bank-System\clsBankClient.h(399,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+D:\عبد الرحمن\Course-10-And  11-Projects\Bank-System\Bank-System\clsBankClient.h(464,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+D:\عبد الرحمن\Course-10-And  11-Projects\Bank-System\Bank-System\clsUser.h(318,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  Bank-System.vcxproj -> D:\عبد الرحمن\Course-10-And  11-Projects\Bank-System\x64\Debug\Bank-System.exe

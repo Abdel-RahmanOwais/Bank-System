@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0639\u0628\u062F \u0627\u0644\u0631\u062D\u0645\u0646\\Course-10-And  11-Projects\\Bank-System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F86B79E1-674F-4A54-96AC-A8A249938F46}|Bank-System\\Bank-System.vcxproj|D:\\\u0639\u0628\u062F \u0627\u0644\u0631\u062D\u0645\u0646\\Course-10-And  11-Projects\\Bank-System\\Bank-System\\clsLoginScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F86B79E1-674F-4A54-96AC-A8A249938F46}|Bank-System\\Bank-System.vcxproj|solutionrelative:Bank-System\\clsLoginScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F86B79E1-674F-4A54-96AC-A8A249938F46}|Bank-System\\Bank-System.vcxproj|D:\\\u0639\u0628\u062F \u0627\u0644\u0631\u062D\u0645\u0646\\Course-10-And  11-Projects\\Bank-System\\Bank-System\\clsMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F86B79E1-674F-4A54-96AC-A8A249938F46}|Bank-System\\Bank-System.vcxproj|solutionrelative:Bank-System\\clsMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F86B79E1-674F-4A54-96AC-A8A249938F46}|Bank-System\\Bank-System.vcxproj|D:\\\u0639\u0628\u062F \u0627\u0644\u0631\u062D\u0645\u0646\\Course-10-And  11-Projects\\Bank-System\\Bank-System\\clsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F86B79E1-674F-4A54-96AC-A8A249938F46}|Bank-System\\Bank-System.vcxproj|solutionrelative:Bank-System\\clsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsLoginScreen.h",
+              "DocumentMoniker": "D:\\\u0639\u0628\u062F \u0627\u0644\u0631\u062D\u0645\u0646\\Course-10-And  11-Projects\\Bank-System\\Bank-System\\clsLoginScreen.h",
+              "RelativeDocumentMoniker": "Bank-System\\clsLoginScreen.h",
+              "ToolTip": "D:\\\u0639\u0628\u062F \u0627\u0644\u0631\u062D\u0645\u0646\\Course-10-And  11-Projects\\Bank-System\\Bank-System\\clsLoginScreen.h",
+              "RelativeToolTip": "Bank-System\\clsLoginScreen.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-10T00:45:59.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsMainScreen.h",
+              "DocumentMoniker": "D:\\\u0639\u0628\u062F \u0627\u0644\u0631\u062D\u0645\u0646\\Course-10-And  11-Projects\\Bank-System\\Bank-System\\clsMainScreen.h",
+              "RelativeDocumentMoniker": "Bank-System\\clsMainScreen.h",
+              "ToolTip": "D:\\\u0639\u0628\u062F \u0627\u0644\u0631\u062D\u0645\u0646\\Course-10-And  11-Projects\\Bank-System\\Bank-System\\clsMainScreen.h",
+              "RelativeToolTip": "Bank-System\\clsMainScreen.h",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-10T00:45:47.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsScreen.h",
+              "DocumentMoniker": "D:\\\u0639\u0628\u062F \u0627\u0644\u0631\u062D\u0645\u0646\\Course-10-And  11-Projects\\Bank-System\\Bank-System\\clsScreen.h",
+              "RelativeDocumentMoniker": "Bank-System\\clsScreen.h",
+              "ToolTip": "D:\\\u0639\u0628\u062F \u0627\u0644\u0631\u062D\u0645\u0646\\Course-10-And  11-Projects\\Bank-System\\Bank-System\\clsScreen.h",
+              "RelativeToolTip": "Bank-System\\clsScreen.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-10T00:45:47.883Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
